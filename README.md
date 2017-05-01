@@ -1,4 +1,4 @@
-# hello-world
+# Resume
 
 <div id="resume">
   <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/james-moriarty.jpg" alt="James Moriarty">
